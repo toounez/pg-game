@@ -1,0 +1,20 @@
+# GameMaker
+*.yyd
+*.yyp.bak
+*.gml.bak
+*.backup
+cache/
+temp/
+build/
+*.exe
+*.zip
+*.swp
+*.swo
+*~
+.vs/
+.vscode/
+debug.log
+
+# OS
+.DS_Store
+Thumbs.db
